@@ -1,2 +1,2 @@
 # MyMiniProjects
-A collection a mini project about AI &amp; ML (different regression models and more)
+A collection of mini project about AI &amp; ML (different regression models and more)
